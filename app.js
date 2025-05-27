@@ -1,4 +1,4 @@
-require("./xyz.js"); //  one module into another
+require("./xyz.js"); //  one module into another 
 
 const util = require("node:util");
 
